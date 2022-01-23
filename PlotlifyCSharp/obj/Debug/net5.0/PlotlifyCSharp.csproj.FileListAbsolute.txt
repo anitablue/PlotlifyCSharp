@@ -1,0 +1,16 @@
+C:\Github\PlotlifyCSharp\PlotlifyCSharp\bin\Debug\net5.0\PlotlifyCSharp.exe
+C:\Github\PlotlifyCSharp\PlotlifyCSharp\bin\Debug\net5.0\PlotlifyCSharp.deps.json
+C:\Github\PlotlifyCSharp\PlotlifyCSharp\bin\Debug\net5.0\PlotlifyCSharp.runtimeconfig.json
+C:\Github\PlotlifyCSharp\PlotlifyCSharp\bin\Debug\net5.0\PlotlifyCSharp.runtimeconfig.dev.json
+C:\Github\PlotlifyCSharp\PlotlifyCSharp\bin\Debug\net5.0\PlotlifyCSharp.dll
+C:\Github\PlotlifyCSharp\PlotlifyCSharp\bin\Debug\net5.0\ref\PlotlifyCSharp.dll
+C:\Github\PlotlifyCSharp\PlotlifyCSharp\bin\Debug\net5.0\PlotlifyCSharp.pdb
+C:\Github\PlotlifyCSharp\PlotlifyCSharp\obj\Debug\net5.0\PlotlifyCSharp.csproj.AssemblyReference.cache
+C:\Github\PlotlifyCSharp\PlotlifyCSharp\obj\Debug\net5.0\PlotlifyCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\PlotlifyCSharp\PlotlifyCSharp\obj\Debug\net5.0\PlotlifyCSharp.AssemblyInfoInputs.cache
+C:\Github\PlotlifyCSharp\PlotlifyCSharp\obj\Debug\net5.0\PlotlifyCSharp.AssemblyInfo.cs
+C:\Github\PlotlifyCSharp\PlotlifyCSharp\obj\Debug\net5.0\PlotlifyCSharp.csproj.CoreCompileInputs.cache
+C:\Github\PlotlifyCSharp\PlotlifyCSharp\obj\Debug\net5.0\PlotlifyCSharp.dll
+C:\Github\PlotlifyCSharp\PlotlifyCSharp\obj\Debug\net5.0\ref\PlotlifyCSharp.dll
+C:\Github\PlotlifyCSharp\PlotlifyCSharp\obj\Debug\net5.0\PlotlifyCSharp.pdb
+C:\Github\PlotlifyCSharp\PlotlifyCSharp\obj\Debug\net5.0\PlotlifyCSharp.genruntimeconfig.cache
